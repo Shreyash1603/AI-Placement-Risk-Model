@@ -1,0 +1,14 @@
+placement-risk-model/
+│
+├── app/
+│   └── app.py
+│
+├── data/
+│   └── placement_risk_data.csv
+│
+├── model/
+│   └── train_model.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
